@@ -1,0 +1,40 @@
+body{
+	background: #87ceeb;
+	width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 20px;
+	padding-left: 15px;
+	padding-right: 15px; 
+}
+
+.c1{
+	color: blue;
+	font-style: italic;
+	font-family: 宋体;
+	font-weight: bolder;
+}
+
+.c2{
+	border-style: solid;
+	border-color: #1f1e33;
+	border-radius: 10px;
+	padding-left: 40px;
+	padding-right: 40px; 
+	padding-top: 15px;
+	padding-bottom: 15px;
+	box-shadow: 5px 5px 5px 6px rgba(0,0,0,.5);
+	font-family: 楷体;
+	font-size: 24px;
+}
+
+img{
+	height: 400px;
+}
+
+table{
+	width: 900px;
+	height: 200px;
+}
